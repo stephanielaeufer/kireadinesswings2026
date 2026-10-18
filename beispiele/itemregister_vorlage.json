@@ -1,0 +1,41 @@
+{
+  "register_version": "0.1-strukturbeispiel",
+  "status": "VORLAGE_MIT_EINEM_EIGENENTWICKELTEN_KONTEXTITEM",
+  "ist_gepruefte_kernbank": false,
+  "hinweis": "Dieses Beispiel zeigt das Dokumentationsformat. Es ist keine vollständige Itembank und kein validiertes Messinstrument.",
+  "items": [
+    {
+      "item_id": "CTX_USE_01",
+      "dimension_id": "NUTZUNGSERFAHRUNG",
+      "konstruktdefinition": "Selbst berichtete bisherige berufliche Nutzung generativer KI",
+      "zweck": "Erfahrungskontext beschreiben, ohne Nichtnutzung als fehlende Kompetenz zu bewerten",
+      "originalquelle": null,
+      "originalfundstelle": null,
+      "originalwortlaut": null,
+      "theoretische_begruendung_quellen_ids": ["Q02"],
+      "status": "NEU_ENTWICKELT",
+      "formulierung": "Haben Sie in den vergangenen drei Monaten generative KI für berufliche Aufgaben genutzt?",
+      "aenderungsbegruendung": "Eigene Kontextfrage mit eindeutigem Verhalten, Arbeitskontext und Zeitraum; keine Übernahme eines publizierten Skalenitems",
+      "urspruengliche_antwortskala": null,
+      "verwendete_antwortskala": {
+        "typ": "EINFACHAUSWAHL",
+        "optionen": [
+          {"code": "JA", "label": "Ja"},
+          {"code": "NEIN", "label": "Nein"},
+          {"code": "NICHT_BEURTEILBAR", "label": "Kann ich nicht beurteilen"},
+          {"code": "KEINE_ANGABE", "label": "Möchte ich nicht angeben"}
+        ]
+      },
+      "rolle": "KONTEXTITEM",
+      "anzeigebedingung": "Alle Teilnehmenden",
+      "zielgruppe": "Alle Tätigkeitsbereiche",
+      "voraussetzung": "Die standardisierte Definition generativer KI wurde zuvor angezeigt",
+      "auswertung": "Antwortverteilung; keine Aufnahme in einen Kompetenz- oder Gesamtscore",
+      "umkodierung": null,
+      "fehlwertbehandlung": "Nicht beurteilbar, keine Angabe und vollständig fehlende Antwort getrennt berichten; Nein ist eine gültige Antwort",
+      "evidenzstatus": "Eigene, noch nicht empirisch geprüfte Kontextfrage",
+      "pruefstatus": "PRETEST_AUSSTEHEND",
+      "version": "0.1"
+    }
+  ]
+}

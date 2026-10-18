@@ -1,0 +1,29 @@
+{
+  "briefing_version": "0.1",
+  "szenario": "S2",
+  "betriebsart": "ANWENDEN",
+  "kontextart": "FIKTIVE_DEMONSTRATION",
+  "unternehmen": "Fiktiver Produktionsbetrieb mit 400 Beschäftigten",
+  "technologie": "Generative KI",
+  "zweck": [
+    "Status quo beschreiben",
+    "Hinweise auf Weiterbildungsbedarf ableiten",
+    "Betriebliche Voraussetzungen gesondert erfassen"
+  ],
+  "zielgruppe": "Mitarbeitende aller Tätigkeitsbereiche einschließlich Personen ohne bisherige GenAI-Nutzung",
+  "taetigkeitsbereiche": [
+    "Schichtarbeit Produktion",
+    "Logistik",
+    "Verwaltung",
+    "Führung"
+  ],
+  "sprache": "Deutsch",
+  "arbeitszugang_zu_genai": "Nicht alle haben einen eigenen PC oder freigegebene KI-Werkzeuge",
+  "bisherige_nutzung": "Unbekannt und mit dem Fragebogen zu erheben",
+  "antwortdaten_vorhanden": false,
+  "gepruefte_kernbank_version": "GARI-DE-0.1",
+  "codebuch_version": "GARI-DE-0.1",
+  "erhebungsweg": "Onlineformular; Zugang über Link, Teilnahme freiwillig",
+  "hinweis": "Fiktives Unternehmen für eine Verfahrensdemonstration. Keine realen Daten.",
+  "besonderheit": "Teilnahme teilweise über Tablet im Pausenraum"
+}

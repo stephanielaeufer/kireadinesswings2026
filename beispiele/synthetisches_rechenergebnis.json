@@ -1,0 +1,1665 @@
+{
+  "data_kind": "SYNTHETIC_DEMO",
+  "questionnaire_version": "GARI-DE-0.1",
+  "interpretation_limit": "Künstliche Testdaten; keinerlei empirischer Befund.",
+  "n_records": 3,
+  "calculation_status": "BERECHNET",
+  "items": {
+    "C01": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "OFFICE": {
+          "n": 3,
+          "percent_valid": 100.0
+        },
+        "OTHER_WORK": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "MIXED": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "C02": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "D0": {
+          "n": 3,
+          "percent_valid": 100.0
+        },
+        "D1_3": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "D4_9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "D10_15": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "D16_PLUS": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "UNKNOWN": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "C03": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "YES": {
+          "n": 3,
+          "percent_valid": 100.0
+        },
+        "NO": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "UNKNOWN": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "C04": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "YES": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "NO": {
+          "n": 3,
+          "percent_valid": 100.0
+        },
+        "UNKNOWN": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "C05": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "KNOWN": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "PARTLY": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "NOT_KNOWN": {
+          "n": 3,
+          "percent_valid": 100.0
+        },
+        "EXISTENCE_UNKNOWN": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "C06": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "YES": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "NO": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "UNKNOWN": {
+          "n": 3,
+          "percent_valid": 100.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "U01": {
+      "n_valid": 2,
+      "n_missing": 1,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 1,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 2,
+          "percent_valid": 100.0
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "U02": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "U03": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "U04": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "U05": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "U06": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "K01": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "K02": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "K03": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "K04": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "K05": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "K06": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "L01": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "L02": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "L03": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "G01": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "G02": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "G03": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "0": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "1": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "8": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "9": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "10": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "A01": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "1": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "A02": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "1": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "A03": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "1": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "A04": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "1": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "I01": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "1": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "I02": {
+      "n_valid": 2,
+      "n_missing": 1,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 1,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "1": {
+          "n": 1,
+          "percent_valid": 50.0
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 50.0
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "I03": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "NICHT_BEURTEILBAR": 0,
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "1": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "2": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "3": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "4": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "5": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "6": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "7": {
+          "n": 0,
+          "percent_valid": 0.0
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "W01": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "BASICS": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "USE_CASES": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "PROMPTING": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "VERIFY": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "DATA_RULES": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "KEEP_CURRENT": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "OTHER": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "NONE": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "UNKNOWN": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "W02": {
+      "n_valid": 3,
+      "n_missing": 0,
+      "missing_by_reason": {
+        "KEINE_ANGABE": 0,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "distribution": {
+        "ACCESS": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "RULES": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "TIME": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "KNOWLEDGE": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "TASK_FIT": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "RELIABILITY": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "OTHER": {
+          "n": 0,
+          "percent_valid": 0.0
+        },
+        "NONE": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        },
+        "UNKNOWN": {
+          "n": 1,
+          "percent_valid": 33.333333333333336
+        }
+      },
+      "denominator": "Personen mit gültiger Antwort auf dieses Item; bei Mehrfachantworten sind mehr als 100 Prozent insgesamt möglich."
+    },
+    "W03": {
+      "n_valid": 0,
+      "n_missing": 3,
+      "missing_by_reason": {
+        "KEINE_ANGABE": 3,
+        "UNGUELTIG_ERFASST": 0
+      },
+      "note": "Freitext wird nicht in den numerischen Bericht kopiert. Gesondert pseudonymisiert und inhaltlich prüfen."
+    }
+  },
+  "domains": {
+    "U": {
+      "label": "Selbst eingeschätzte Anwendung",
+      "n_complete": 2,
+      "n_incomplete": 1,
+      "mean": 1.25,
+      "min": 0,
+      "max": 2.5,
+      "range": [
+        0,
+        10
+      ]
+    },
+    "K": {
+      "label": "Selbst eingeschätztes Verständnis",
+      "n_complete": 3,
+      "n_incomplete": 0,
+      "mean": 3.6666666666666665,
+      "min": 0,
+      "max": 8,
+      "range": [
+        0,
+        10
+      ]
+    },
+    "L": {
+      "label": "Zutrauen in das eigene Lernen",
+      "n_complete": 3,
+      "n_incomplete": 0,
+      "mean": 3.6666666666666665,
+      "min": 0,
+      "max": 8,
+      "range": [
+        0,
+        10
+      ]
+    },
+    "A": {
+      "label": "Einstellung zur Nutzung",
+      "n_complete": 3,
+      "n_incomplete": 0,
+      "mean": 3.3333333333333335,
+      "min": 1,
+      "max": 6,
+      "range": [
+        1,
+        7
+      ]
+    },
+    "I": {
+      "label": "Berichtete Nutzungsabsicht",
+      "n_complete": 2,
+      "n_incomplete": 1,
+      "mean": 2,
+      "min": 1,
+      "max": 3,
+      "range": [
+        1,
+        7
+      ]
+    }
+  },
+  "individual_scores": [
+    {
+      "participant_id": "DEMO01",
+      "scores": {
+        "U": 2.5,
+        "K": 3,
+        "L": 3,
+        "A": 3,
+        "I": 3
+      }
+    },
+    {
+      "participant_id": "DEMO02",
+      "scores": {
+        "U": null,
+        "K": 8,
+        "L": 8,
+        "A": 6,
+        "I": null
+      }
+    },
+    {
+      "participant_id": "DEMO03",
+      "scores": {
+        "U": 0,
+        "K": 0,
+        "L": 0,
+        "A": 1,
+        "I": 1
+      }
+    }
+  ],
+  "review_flags": [
+    {
+      "participant_id": "DEMO02",
+      "items": [
+        "C04",
+        "I01",
+        "I02",
+        "I03"
+      ],
+      "message": "Kein aktueller Zugang und Zustimmung 6 oder 7 zur künftigen Nutzung: erwartete Zugangsänderung prüfen; keine automatische Korrektur.",
+      "rule": "Eigener Plausibilitätshinweis, keine Readiness-Grenze."
+    }
+  ],
+  "total_score": null,
+  "total_score_reason": "Nicht vorgesehen.",
+  "bank_sha256": "c2e7eb3ba5f7505a9418ac1cd21b1847ae7e84f4cdd799db3ccfc8107c2ec080",
+  "input_sha256": "6614ba039e8f201a6acf2a8fa3ce6c5884c5fd6659729092035fb75d3f3a001e"
+}

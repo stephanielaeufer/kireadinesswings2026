@@ -1,0 +1,31 @@
+{
+  "briefing_version": "0.1",
+  "szenario": "S3",
+  "betriebsart": "ANWENDEN",
+  "kontextart": "FIKTIVE_DEMONSTRATION",
+  "unternehmen": "Fiktives Unternehmen mit 1.200 Beschäftigten an mehreren Standorten",
+  "technologie": "Generative KI",
+  "zweck": [
+    "Status quo beschreiben",
+    "Hinweise auf Weiterbildungsbedarf ableiten",
+    "Betriebliche Voraussetzungen gesondert erfassen"
+  ],
+  "zielgruppe": "Mitarbeitende aller Tätigkeitsbereiche einschließlich Personen ohne bisherige GenAI-Nutzung",
+  "taetigkeitsbereiche": [
+    "Vertrieb",
+    "Kundendienst",
+    "Entwicklung",
+    "Verwaltung",
+    "Personal",
+    "Führung"
+  ],
+  "sprache": "Deutsch",
+  "arbeitszugang_zu_genai": "GenAI-Werkzeuge vorhanden, aber unterschiedlich genutzt",
+  "bisherige_nutzung": "Unbekannt und mit dem Fragebogen zu erheben",
+  "antwortdaten_vorhanden": false,
+  "gepruefte_kernbank_version": "GARI-DE-0.1",
+  "codebuch_version": "GARI-DE-0.1",
+  "erhebungsweg": "Onlineformular; Zugang über Link, Teilnahme freiwillig",
+  "hinweis": "Fiktives Unternehmen für eine Verfahrensdemonstration. Keine realen Daten.",
+  "wunsch": "Differenzierte Lernwünsche je Funktion sichtbar machen; Ergebnisse je Standort"
+}

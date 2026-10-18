@@ -1,0 +1,21 @@
+{
+  "briefing_version": "0.1",
+  "betriebsart": "ENTWICKELN",
+  "kontextart": "FIKTIVE_DEMONSTRATION",
+  "unternehmen": "Fiktiver Betrieb für die Verfahrensdemonstration",
+  "technologie": "Generative KI",
+  "zweck": ["Status quo beschreiben", "Hinweise auf Weiterbildungsbedarf ableiten", "Betriebliche Voraussetzungen gesondert erfassen"],
+  "zielgruppe": "Mitarbeitende aller Tätigkeitsbereiche einschließlich Personen ohne bisherige GenAI-Nutzung",
+  "taetigkeitsbereiche": ["Verwaltung", "Kundenkontakt", "Operative Tätigkeit", "Führung"],
+  "sprache": "Deutsch",
+  "arbeitszugang_zu_genai": "Unterschiedlich; teilweise kein freigegebenes Werkzeug vorhanden",
+  "bisherige_nutzung": "Unbekannt und mit dem Fragebogen zu erheben",
+  "rueckblick_nutzung": "Vergangene drei Monate",
+  "horizont_nutzungsabsicht": "Kommende drei Monate unter ausdrücklich benannten Bedingungen",
+  "antwortdaten_vorhanden": false,
+  "gepruefte_kernbank_version": null,
+  "codebuch_version": null,
+  "erforderliche_ausgaben": ["Quellenregister", "Konstruktmatrix", "Fragebogenentwurf", "Itemregister", "Codebuch", "Pretestleitfaden", "Auswertungsplan", "Schema für Maßnahmenbericht"],
+  "bereitzustellende_quellen": ["Relevante Originalstudien aus den bereitgestellten fünf Fragebogenpapers", "Datensatz_v1.docx als ergänzende Itemsammlung", "MAILS-Autorenvolltext und geprüfte Itemmaterialien", "Ajzen-Anleitung zur Fragebogenkonstruktion"],
+  "hinweis": "Dieses Briefing beschreibt kein reales Unternehmen. Die Quellen müssen im gewählten KI-System tatsächlich verfügbar sein. Es liegen keine empirischen Ergebnisse vor."
+}

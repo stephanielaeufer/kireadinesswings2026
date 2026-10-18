@@ -1,0 +1,3 @@
+Erstelle auf Basis des beigefügten Unternehmensbriefings, der Quellen, der Kernbank und des Codebuchs einen Fragebogen zur Readiness für generative KI bei Mitarbeitenden. Ziel sind eine Beschreibung des Status quo und Hinweise auf Weiterbildungsbedarf. Übernimm den vorgegebenen Kern und ergänze passende Kontextfragen. Liefere den Fragebogen, die Quellenzuordnung, das Codebuch und einen Plan für die Auswertung und die Ableitung von Maßnahmen. Es liegen noch keine Befragungsdaten vor.
+
+Beigefügte Dateien: briefing.json, instrument/Itembank_GARI_DE_0.1.json, instrument/Codebuch.md, Quellen_APA.md.

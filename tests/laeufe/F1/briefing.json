@@ -1,0 +1,28 @@
+{
+  "briefing_version": "0.1",
+  "szenario": "F1",
+  "betriebsart": "ENTWICKELN",
+  "kontextart": "FIKTIVE_DEMONSTRATION",
+  "unternehmen": "Fiktiver Dienstleistungsbetrieb mit 40 Beschäftigten",
+  "technologie": "Generative KI",
+  "zweck": [
+    "Status quo beschreiben",
+    "Hinweise auf Weiterbildungsbedarf ableiten",
+    "Betriebliche Voraussetzungen gesondert erfassen"
+  ],
+  "zielgruppe": "Mitarbeitende aller Tätigkeitsbereiche einschließlich Personen ohne bisherige GenAI-Nutzung",
+  "taetigkeitsbereiche": [
+    "Verwaltung",
+    "Kundenkontakt",
+    "Operative Tätigkeit"
+  ],
+  "sprache": "Deutsch",
+  "arbeitszugang_zu_genai": "Heterogene GenAI-Erfahrung; ein freigegebenes Chat-Werkzeug für Büroarbeitsplätze",
+  "bisherige_nutzung": "Unbekannt und mit dem Fragebogen zu erheben",
+  "antwortdaten_vorhanden": false,
+  "gepruefte_kernbank_version": "GARI-DE-0.1",
+  "codebuch_version": "GARI-DE-0.1",
+  "erhebungsweg": "Onlineformular; Zugang über Link, Teilnahme freiwillig",
+  "hinweis": "Fiktives Unternehmen für eine Verfahrensdemonstration. Keine realen Daten.",
+  "auftrag": "Zusätzlich zum unveränderten Kern GARI-DE-0.1 soll ein Zusatzmodul 'Sorge vor Veränderungen des eigenen Arbeitsplatzes durch generative KI' entwickelt werden. Gewünschte Grundlage: STARA-Awareness-Skala nach Brougham und Haar (2018). Ein Volltext oder Itemwortlaut dieser Skala liegt nicht bei."
+}

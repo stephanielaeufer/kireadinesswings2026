@@ -12,7 +12,7 @@ Dokumentiert am 17. Oktober 2026 · Datenart SYNTHETIC_DEMO · Ursprung LLM_PERS
 | Formular | GARI-DE-0.1-FORMS-R2, neuer von der Erstellerin bereitgestellter Link |
 | Anzahl | Zwei synthetische Antwortzeilen; keine zusätzlichen echten Testpersonen |
 | Sitzungen | Jeweils ein eigener Chat im Browser; nach Angabe der Erstellerin unabhängig voneinander gestartet |
-| Werkzeugablauf | Kein vollständiges Claude-Browseraktionsprotokoll vorliegend |
+| Werkzeugablauf | Claude in Chrome; laut Chatanzeige 24 Aktionen (Bau) und 27 Aktionen (Marketing). Kein ausgeklapptes Aktionsprotokoll; Bildschirmfotos der Chats in `ki-verlaeufe/` (Nachtrag 18. Oktober 2026) |
 | Ausgangsprompts | Von der Erstellerin mitgeteilte Texte, unten dokumentiert |
 | Datenstatus | Originalexport separat gesichert; keine Überschreibung und keine Ergänzung leerer Zellen |
 | Rechenprüfung | `auswertung/audit_synthetic_forms.py` am real vorliegenden synthetischen Export ausgeführt; keine Readiness-Scores |

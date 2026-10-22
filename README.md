@@ -42,6 +42,8 @@ Die verwendeten Prompts stehen in [`tests/notebooklm/ANLEITUNG_NotebookLM.md`](t
 
 Jedes System, das Dateien lesen kann, ist geeignet. Python-Ausführung verbessert die Auswertung. Erprobt wurde der Masterprompt mit Claude Opus 5.5 und in Google NotebookLM.
 
+**Mit NotebookLM:** NotebookLM nimmt keine `.json`-Dateien an. Fertige Dateien mit `.txt`-Endung und eine Schritt-für-Schritt-Anleitung liegen in [`notebooklm_paket/`](notebooklm_paket/README.md).
+
 **Bedienregel für NotebookLM:** Masterprompt als Quelle hochladen, nicht in das Anweisungsfeld. Vor jedem Lauf in der Quellenliste nur die Quellen auswählen, die der Prompt nennt. NotebookLM setzt einen Quellenausschluss im Prompt nicht zuverlässig um (Evaluationsprotokoll, Abschnitt 11). Lange Ausgaben in Abschnitten anfordern.
 
 ## Rechenregeln nachvollziehen
@@ -73,6 +75,7 @@ Die Ausgabe enthält Einzelverteilungen und fünf getrennte vorläufige Teilbere
 | `tests/laeufe/` | Auftrag und Rohausgabe je Evaluationslauf, mechanische Prüfung | 18. Oktober 2026 |
 | `tests/notebooklm/` | Prompts und Rohantworten aus NotebookLM | 18. Oktober 2026 |
 | `tests/Bewertungsbogen_Erstellerin*.md` | Leerer und ausgefüllter Bogen des menschlichen Abgleichs | 18. Oktober 2026 |
+| `notebooklm_paket/` | Dieselben Kerndateien in NotebookLM-tauglichem Format, mit Anleitung | 0.6 |
 | `ki-verlaeufe/` | Verläufe mit allen eingesetzten KI-Systemen, Übersicht in `ki-verlaeufe/README.md` | 18. Oktober 2026 |
 
 ## Was nicht in diesem Repository liegt und warum

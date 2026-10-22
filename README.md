@@ -24,7 +24,7 @@ Status quo, selbst eingeschätzte Fähigkeiten, Einstellung, Nutzungsabsicht, Le
 
 ### NotebookLM
 
-Der Masterprompt wurde in Google NotebookLM demonstriert und das Projektpaket dort unabhängig geprüft. Die Notebooks enthalten die Lehrunterlagen des Moduls als Quellen. Sie sind deshalb nur für die Prüfenden freigegeben, nicht öffentlich.
+Der Masterprompt wurde in Google NotebookLM demonstriert und das Projektpaket dort unabhängig geprüft. Die Notebooks liegen in einem Google-Workspace-Konto, das keine Freigabe an Personen außerhalb der Organisation zulässt. Die Links sind deshalb nur ein Nachweis und von außen nicht aufrufbar. Den vollständigen Verlauf aller Chats enthält [`ki-verlaeufe/NotebookLM_Chatverlauf.docx`](ki-verlaeufe/NotebookLM_Chatverlauf.docx).
 
 | Notebook | Inhalt | Link |
 |---|---|---|
